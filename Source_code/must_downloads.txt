@@ -1,5 +1,0 @@
-1. Download the 'alexnet.caffemodel' from 'http://dl.caffe.berkeleyvision.org/bvlc_alexnet.caffemodel', and copy to 'DIR/AlexNet_VPR/alexnet/'.
-
-
-2. Download the 'AmosNet.caffemodel' from 'https://goo.gl/6xtjwD', and copy to 'DIR/AmosNet/'.
-
