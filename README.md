@@ -35,7 +35,7 @@ Here is a example of the domain-invariant images:
 
 ### Installation
 
-Follow the steps in the must_downloads.txt file to download the corresponding file and put it in the correct location.
+Download and move dependencies as described in the must_downloads.txt file.
 
 ### Calculation
 
