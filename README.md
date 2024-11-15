@@ -3,9 +3,9 @@
 
 ## Setup
 
-### Getting Started
+### Prerequisites
 - Pytorch
-- Linux or macOS
+- Linux 
 - Python 3
 - CPU or NVIDIA GPU + CUDA CuDNN
 
