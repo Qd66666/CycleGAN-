@@ -26,7 +26,7 @@ python test.py --epoch {Epoch} --gpu_ids {GPU_NUM}
 
 ## Visualization
 
-You can
+You can see the domain-invariant image at .../result/
 
 ![Image text](https://github.com/Qd66666/Improve-CycleGAN/blob/8103d546363b4181f3750e7d7f36952438990263/img_240.png)
 
