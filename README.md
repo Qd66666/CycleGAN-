@@ -31,7 +31,7 @@ Here is a example of the domain-invariant images:
 
 ![Image text](https://github.com/Qd66666/Improve-CycleGAN/blob/8103d546363b4181f3750e7d7f36952438990263/img_240.png)
 
-
+## LCD & Similarity calculation
 
 
 
