@@ -14,7 +14,14 @@
 
 usage:
 ```shell
-python train.py --dataroot ./{dataroot_dir} --gpu_ids {GPU_NUM}  --no_dropout --no_AA_BB
+python train.py --dataroot ./{dataroot_dir} --gpu_ids {GPU_NUM} --no_dropout --no_AA_BB
+```
+## Testing
+
+usage:
+```shell
+python feat_c.py --epoch {Epoch} --gpu_ids {GPU_NUM} --name MDII \ 
+  --dataroot ./{dataroot_dir} --no_dropout --phase train --eval
 ```
 
 ## Visualization
