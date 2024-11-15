@@ -14,7 +14,7 @@
 
 usage:
 ```shell
-python train.py --dataroot ./{dataroot_dir} --gpu_ids {GPU_NUM} --no_dropout --no_AA_BB
+python train.py --dataroot ./{dataroot_dir} --model CycleGAN+ --gpu_ids {GPU_NUM} --no_dropout --no_AA_BB
 ```
 ## Testing
 
