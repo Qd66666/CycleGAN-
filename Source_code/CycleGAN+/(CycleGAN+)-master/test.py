@@ -20,7 +20,7 @@ class save():
                 os.makedirs(os.path.join(path.replace('result', 'result/images'), 'rgb'))
                 os.makedirs(os.path.join(path.replace('result', 'result/images'), 'thr'))
             imwrite(os.path.join(path.replace('result', 'result/images'), 'rgb', image_name.replace('png','tif')), E_R)
-            imwrite(os.path.join(path.replace('result', 'result/imagesimsave'), 'thr', image_name.replace('png','tif')), E_T)
+            imwrite(os.path.join(path.replace('result', 'result/images'), 'thr', image_name.replace('png','tif')), E_T)
             
 if __name__ == '__main__':
     result_path='./result'
