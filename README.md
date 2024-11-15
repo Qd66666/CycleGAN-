@@ -26,7 +26,7 @@ python test.py --epoch {Epoch} --gpu_ids {GPU_NUM}
 
 ## Visualization
 
-![Image](Img_folder/img_240.jpg)
+![Image text](Img_folder/img_240.jpg)
 
 
 
