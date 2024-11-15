@@ -36,6 +36,10 @@ Here is a example of the domain-invariant images:
 ### Installation
 
 Follow the steps in the must_downloads.txt file to download the corresponding file and put it in the correct location.
+
+### Calculation
+
+Divide the images into reference folders and query folders.
 compute_query_desc(image_query)
 
 
