@@ -20,8 +20,7 @@ python train.py --dataroot ./{dataroot_dir} --name CycleGAN+ --gpu_ids {GPU_NUM}
 
 usage:
 ```shell
-python test.py --epoch {Epoch_num} --gpu_ids {GPU_NUM} --name CycleGAN+
-  --dataroot ./{dataroot_dir} --no_dropout --phase train --eval
+python test.py --epoch {Epoch_num} --gpu_ids {GPU_NUM} --name CycleGAN+ --dataroot ./{dataroot_dir} --no_dropout --phase train --eval
 ```
 
 ## Visualization
