@@ -31,9 +31,12 @@ Here is a example of the domain-invariant images:
 
 ![Image text](https://github.com/Qd66666/Improve-CycleGAN/blob/8103d546363b4181f3750e7d7f36952438990263/img_240.png)
 
-## LCD & Similarity calculation
+## Similarity calculation
 
+### Installation
 
+Follow the steps in the must_downloads.txt file to download the corresponding file and put it in the correct location.
+compute_query_desc(image_query)
 
 
 # Multispectral Domain Invariant Image for Retrieval-based Place Recognition
