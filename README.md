@@ -26,7 +26,7 @@ python test.py --epoch {Epoch} --gpu_ids {GPU_NUM}
 
 ## Visualization
 
-![Image text]([Img_folder/img_240.jpg](https://github.com/Qd66666/Improve-CycleGAN/blob/952680f093e6b25ae1365b9d94c19dc845280e59/img_240.jpg))
+![Image text](https://github.com/Qd66666/Improve-CycleGAN/blob/8103d546363b4181f3750e7d7f36952438990263/img_240.png)
 
 
 
