@@ -20,48 +20,18 @@ python train.py --dataroot ./{dataroot_dir} --model CycleGAN+ --gpu_ids {GPU_NUM
 
 usage:
 ```shell
-python feat_c.py --epoch {Epoch} --gpu_ids {GPU_NUM} --name MDII \ 
+python test.py --epoch {Epoch} --gpu_ids {GPU_NUM} 
   --dataroot ./{dataroot_dir} --no_dropout --phase train --eval
 ```
 
 ## Visualization
 
-usage:
-```shell
-python val.py
-```
-## Datasets
-
-### INSULATOR FAULTSDETECTION  dataset
-You can get the INSULATOR FAULTSDETECTION dataset by filling out the form at:
-https://universe.roboflow.com/project-vmgqx/insulator-faults-detection
-
-### VOC dataset
-vim trian.py:
-```shell
-    model = YOLO('ultralytics/cfg/models/LFCA-YOLO.yaml')
-    init_seeds(seed=1, deterministic=True)
-    model.train(data='ultralytics/cfg/VOC.yaml',
-                cache=False,
-                imgsz=640,
-                epochs=200,
-                batch=32,
-                close_mosaic=10,
-                workers=8,
-                device='0',
-                optimizer='SGD',
-                project='runs/train',
-                name='exp',
-                seed=1
-                )
-```
-
-### SFID dataset
-Dataset downloadable at:
-https://ihepbox.ihep.ac.cn/ihepbox/index.php/s/adTHe1UPu0Vc7vI/download
 
 
-<img src='https://user-images.githubusercontent.com/41140561/65418411-56a91580-de37-11e9-872d-a978e98364b1.png' align="right">
+
+
+
+
 
 # Multispectral Domain Invariant Image for Retrieval-based Place Recognition
 - [ICRA2020 Paper](./MDII_paper.pdf)
